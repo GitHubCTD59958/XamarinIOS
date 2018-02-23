@@ -1,0 +1,10 @@
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/bin/iPhoneSimulator/Debug/IOS_Videos.exe
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/bin/iPhoneSimulator/Debug/IOS_Videos.pdb
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/IOS_Videos.csproj.CoreCompileInputs.cache
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/IOS_Videos.exe
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/IOS_Videos.pdb
+/Users/CarlosTorres/Projects/IOS_Videos/IOS_Videos/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/Video.png
