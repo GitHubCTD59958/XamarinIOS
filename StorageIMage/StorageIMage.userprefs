@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A5CB19F3-0B5F-405A-B92E-DBE484DC74DA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StorageIMage/ViewController.cs">
+    <Files>
+      <File FileName="StorageIMage/ViewController.cs" Line="79" Column="2" />
+      <File FileName="StorageIMage/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StorageIMage PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E6A63669-D44E-4E7E-A3F2-8DCF35DBA70B" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.StorageIMage>
+  <MultiItemStartupConfigurations />
+</Properties>

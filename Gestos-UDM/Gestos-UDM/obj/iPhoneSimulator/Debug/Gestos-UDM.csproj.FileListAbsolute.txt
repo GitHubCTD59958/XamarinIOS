@@ -1,0 +1,9 @@
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/bin/iPhoneSimulator/Debug/Gestos-UDM.exe
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/bin/iPhoneSimulator/Debug/Gestos-UDM.pdb
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/obj/iPhoneSimulator/Debug/Gestos-UDM.csproj.CoreCompileInputs.cache
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/obj/iPhoneSimulator/Debug/Gestos-UDM.exe
+/Users/CarlosTorres/Projects/Gestos-UDM/Gestos-UDM/obj/iPhoneSimulator/Debug/Gestos-UDM.pdb

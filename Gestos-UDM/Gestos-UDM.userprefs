@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{55F8764C-7173-4A0B-A5BE-DF7E52179F1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gestos-UDM/ViewController.cs">
+    <Files>
+      <File FileName="Gestos-UDM/ViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Gestos-UDM PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E6A63669-D44E-4E7E-A3F2-8DCF35DBA70B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Gestos-UDM>
+  <MultiItemStartupConfigurations />
+</Properties>

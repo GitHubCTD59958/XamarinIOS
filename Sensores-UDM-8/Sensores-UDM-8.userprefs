@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sensores-UDM-8/ViewController.cs">
+    <Files>
+      <File FileName="Sensores-UDM-8/ViewController.cs" Line="32" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sensores-UDM-8 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.863FABC8-89E9-486D-9C6D-41E612257A58">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Sensores-UDM-8>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensores-UDM-8", "Sensores-UDM-8\Sensores-UDM-8.csproj", "{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Release|iPhone.Build.0 = Release|iPhone
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EB0C062F-6190-49E2-BF3F-9ACC5E447A5A}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
