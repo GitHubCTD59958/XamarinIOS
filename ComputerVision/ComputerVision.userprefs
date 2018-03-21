@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{857716EF-9DE9-46A3-B79D-3E41AAC8EE56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComputerVision/Views/TextAnalyticsPage.cs">
+    <Files>
+      <File FileName="ComputerVision/ViewController.cs" Line="19" Column="10" />
+      <File FileName="ComputerVision/Main.storyboard" />
+      <File FileName="ComputerVision/Views/TextAnalyticsPage.cs" Line="13" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ComputerVision PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.60ACC014-0442-461E-9602-BEA45DF70B6C">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ComputerVision>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

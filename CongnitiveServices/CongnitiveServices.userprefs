@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8E96F71B-6AE0-470E-ACEE-5FF6A67D1FB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CongnitiveServices/ViewController.cs">
+    <Files>
+      <File FileName="CongnitiveServices/ViewController.cs" Line="19" Column="10" />
+      <File FileName="CongnitiveServices/ViewController.designer.cs" Line="43" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CongnitiveServices PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.60ACC014-0442-461E-9602-BEA45DF70B6C">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CongnitiveServices>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

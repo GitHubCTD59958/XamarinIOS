@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{2E0D91E7-797E-4C28-8616-84B387BFC416}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapsIOS/ViewController.cs">
+    <Files>
+      <File FileName="MapsIOS/ViewController.cs" Line="45" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MapsIOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF251869-F50F-4245-9264-455DF5BE2FFE">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MapsIOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="MapsIOS/ViewController.cs" line="33" offsetX="390" offsetY="416" expression="position.Latitude" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
